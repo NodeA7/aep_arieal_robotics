@@ -12,6 +12,11 @@ The circuit takes **speed (`v`)** and **turn rate (`ω`)** as inputs and continu
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/baa5b57e-6d7c-43b0-af8f-1d5c35f8ccd7
+
+
 ## How It Works
 
 Each clock tick represents:
